@@ -8,7 +8,7 @@ var baseURL;
 // }
 
 // baseURL = 'https://backend-prince.herokuapp.com/';
-baseURL = "https://hungercaptian-backend.herokuapp.com/";
+baseURL = "https://HungerCaptainbackend.akashmsra.repl.co";
 const api = axios.create({
   baseURL: baseURL,
   headers: {
